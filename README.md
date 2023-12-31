@@ -1,0 +1,2 @@
+# LatihanSKLearnLogisticRegression
+Latihan SKLearn Logistic Regression
